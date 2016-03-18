@@ -84,13 +84,15 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(370, 166);
+            this.radioButton1.BackColor = System.Drawing.Color.OldLace;
+            this.radioButton1.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.radioButton1.Location = new System.Drawing.Point(370, 132);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(85, 17);
             this.radioButton1.TabIndex = 5;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "radioButton1";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.UseVisualStyleBackColor = false;
             // 
             // Form4
             // 
