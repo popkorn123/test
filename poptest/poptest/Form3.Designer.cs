@@ -34,18 +34,18 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(22, 41);
+            this.button1.Location = new System.Drawing.Point(37, 36);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(212, 52);
+            this.button1.Size = new System.Drawing.Size(116, 46);
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(71, 138);
+            this.button2.Location = new System.Drawing.Point(217, 217);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(153, 58);
+            this.button2.Size = new System.Drawing.Size(63, 34);
             this.button2.TabIndex = 1;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
